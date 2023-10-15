@@ -1,0 +1,57 @@
+.hed {
+    justify-content: space-between;
+    display: flex;
+    color: rgb(0, 0, 0);
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 25px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    height: 350px;
+    background-color: #0D0939;
+}
+
+.container button {
+    display: flex;
+    color: white;
+    background-color: #0D0939;
+    border-radius: 50px;
+    border: none;
+    border: 1px solid white;
+    gap: 20px;
+}
+
+.logo {
+    gap: 10px;
+}
+
+.tir {
+    color: white;
+}
+
+main h1 {
+    color: white;
+}
+
+.small {
+    width: 367px;
+    height: 200px;
+}
+
+.imgd {
+    width: 755px;
+    height: 407px;
+    top: 516px;
+    left: 389px;
+    border-radius: 7px;
+}
